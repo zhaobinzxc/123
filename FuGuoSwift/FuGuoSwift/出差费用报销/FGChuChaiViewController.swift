@@ -17,6 +17,9 @@ class FGChuChaiViewController: FGBaseViewController {
 //        self.view.setValue(UIColor.red, forKey: #keyPath(UIView.backgroundColor))//kvc设置视图的背景颜色
         
         
+        
+//        sfvd
+        
     }
 
 
